@@ -1,11 +1,13 @@
-# 🏢 Flask Employee Management System (Admin Only)
+# 🏢 EmpManageX 
 
 A secure web application for managing employee records with admin-only authentication, built with Flask (backend) and vanilla HTML/CSS/JavaScript (frontend).
 
+[![GitHub](https://img.shields.io/badge/GitHub-EmpManageX-blue?logo=github)](https://github.com/kamalpanse18/EmpManageX)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Flask](https://img.shields.io/badge/Flask-3.0.0-green.svg)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0+-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 ## ✨ Features
 
